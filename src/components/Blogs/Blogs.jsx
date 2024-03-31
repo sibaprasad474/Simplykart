@@ -11,7 +11,7 @@ const BlogData = [
     title: "How to choose perfect smartwatch",
     subtitle:
       "minima facere deserunt vero illo beatae deleniti eius dolores consequuntur, eligendi corporis maiores molestiae laudantium. Porro?",
-    published: "Jan 20, 2024 by Dilshad",
+    published: "Jan 20, 2024 by shiv",
     image: Img1,
     aosDelay: "0",
   },
@@ -19,7 +19,7 @@ const BlogData = [
     title: "How to choose perfect gadget",
     subtitle:
       "minima facere deserunt vero illo beatae deleniti eius dolores consequuntur, eligendi corporis maiores molestiae laudantium. Porro?",
-    published: "Jan 20, 2024 by Satya",
+    published: "Jan 20, 2024 by basu",
     image: Img2,
     aosDelay: "200",
   },
@@ -27,7 +27,7 @@ const BlogData = [
     title: "How to choose perfect VR headset",
     subtitle:
       "minima facere deserunt vero illo beatae deleniti eius dolores consequuntur, eligendi corporis maiores molestiae laudantium. Porro?",
-    published: "Jan 20, 2024 by Sabir",
+    published: "Jan 20, 2024 by liju",
     image: Img3,
     aosDelay: "400",
   },
